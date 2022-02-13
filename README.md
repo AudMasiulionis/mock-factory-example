@@ -1,4 +1,4 @@
-# Source code for blog post "You are verifying mocks wrong"
+# Source code for blog post "A better way to verify Mocks"
 How to run:
 ```
 cd MockFactory.Example
